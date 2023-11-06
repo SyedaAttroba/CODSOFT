@@ -1,6 +1,6 @@
 # CODSOFT
 
-3 TASK-1:  CHATBOT WITH RULE-BASED RESPONSES
+# TASK-1:  CHATBOT WITH RULE-BASED RESPONSES
 
 Build a simple chatbot that responds to user inputs based on
 predefined rules. Use if-else statements or pattern matching
